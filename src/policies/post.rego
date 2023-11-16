@@ -1,4 +1,4 @@
-package peoplefinder.POST.api.users
+package NAC.AWS.sessionsmanager
 
 default allowed = false
 
